@@ -1,0 +1,3 @@
+rootProject.name = 'TryRNAuth'
+
+include ':app'
